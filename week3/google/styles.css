@@ -16,6 +16,11 @@ ul {
 header, footer {
   display: flex;
   justify-content: space-between;
+  height:min-content;
+}
+
+footer {
+  align-self: flex-end;
 }
 
 button {
@@ -31,4 +36,19 @@ button {
   display: flex;
   gap: 1rem;
   align-items: center;
+}
+
+main {
+  /* align-self: center; */
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 3fr 1fr;
+  /* display: flex; */
+  /* flex-flow: column nowrap; */
 }
