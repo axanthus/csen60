@@ -32,3 +32,23 @@ button {
   gap: 1rem;
   align-items: center;
 }
+
+/*
+ways to accomplish pre-work
+1. Flexbox
+2. Grid
+3. Absolute positioning
+*/
+
+main {
+  align-self: center;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: space-between;
+  height: 100vh;
+}
