@@ -47,6 +47,7 @@ main {
 
 body {
   display: grid;
+  /*did some work*/
   grid-template-rows: 1fr 3fr 1fr;
   /* flex-direction: column; */
   /* align-items: center; */
