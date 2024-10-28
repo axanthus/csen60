@@ -57,7 +57,7 @@ console.log(person["age"])
 
 console.log(typeof ("hello world"))
 
-alert("This is a important message")
+//alert("This is a important message")
 
 // Strict equality -- 1. are these the same type? 2. Are these the same value?
 console.log(3 === '3'); // false 
