@@ -7,4 +7,4 @@
 - Nonexistent Navigation
 - Color contrast
 - screenshots for text
-- 
+-
