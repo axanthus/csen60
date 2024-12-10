@@ -1,0 +1,4 @@
+# Project Presentation Notes
+
+## Etsy
+- 
